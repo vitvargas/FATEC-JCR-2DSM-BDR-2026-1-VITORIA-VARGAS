@@ -2,9 +2,16 @@
  Disciplina de Banco de Dados Relacional – 2º semestre DSM – 2026/1
 # Portfólio – Banco de Dados Relacional – 2026/1 
 ##      
-Aluno - Nome: - LinkedIn: - GitHub: --- 
+Aluno 
+- Nome: Vitória Barbara Vargas
+- LinkedIn:https://www.linkedin.com/in/vit%C3%B3ria-barbara-vargas-9b920b351/
+- GitHub: 
 ##    
-Estrutura - P1 - P2 - Requisitos-ABP - Reflexoes --- 
+Estrutura 
+- P1
+- P2
+- Requisitos-ABP
+- Reflexoes --- 
 ##      
 Projeto ABP 
 Descrição do problema escolhido. --- 
